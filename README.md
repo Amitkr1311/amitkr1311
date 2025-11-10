@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **1311amitkr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g7J3gTreh2oLutVAblA4uke809-W_Tie/view?usp=sharing](https://drive.google.com/file/d/1g7J3gTreh2oLutVAblA4uke809-W_Tie/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKJAMQRzKNGB1t7nYY1iifcecgJzroLA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
