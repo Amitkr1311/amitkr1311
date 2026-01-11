@@ -1,24 +1,88 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">Software Engineer • Full-Stack & Cloud-Native Developer</h3>
 
-- 🌱 I’m currently learning **DevOOPs**
-
-- 📫 How to reach me **1311amitkr@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CKJAMQRzKNGB1t7nYY1iifcecgJzroLA/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amit-kumar-iiitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-iiitr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amitkr_1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amitkr_1311" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/littlemonkey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="littlemonkey" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/amit-kumar-iiitr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:1311amitkr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/amitkr_1311">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkr1311&show_icons=true&locale=en&layout=compact" alt="amitkr1311" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitkr1311&show_icons=true&locale=en" alt="amitkr1311" /></p>
+## 👨‍💻 About Me
+- 🎓 Computer Science undergraduate at **IIIT Raichur**
+- 🚀 Backend & Full-Stack Engineer with strong CS fundamentals
+- 🧠 **Top 1.4% globally on LeetCode** (400+ problems solved)
+- ☁️ Built **cloud-native & serverless systems on AWS**
+- 🌱 Currently learning **DevOps & production system design**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitkr1311&" alt="amitkr1311" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=6" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind&perline=6" />
+
+### Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,git&perline=6" />
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 QuickAI SaaS — Multimodal Generative AI Platform
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+
+- Multimodal SaaS combining **LLMs + Computer Vision**
+- **ACID-compliant PostgreSQL payment ledger**
+- Secure APIs with validation & rate limiting
+- Deployed on **AWS EC2 & S3**
+
+---
+
+### 🎨 CollabBoard — Real-Time Collaborative Canvas
+
+- Real-time collaboration using **WebSockets (Socket.io)**
+- Custom **HTML5 Canvas rendering engine**
+- Optimized builds using **Turborepo**
+
+---
+
+### 📚 NoteSphere — Context-Aware Digital Brain
+
+- **RAG-based semantic search** with vector embeddings
+- Scalable ingestion & validation pipeline
+- Built with **MERN + TypeScript**
+
+---
+
+## 🌍 Open Source Contributions
+
+- 🛠️ Contributed to open-source repositories focused on **backend APIs, system utilities, and developer tooling**
+- 🧪 Actively participate in **bug fixing, code refactoring, and feature enhancements**
+- 📚 Regularly explore and contribute to projects involving **Node.js, TypeScript, and databases**
+- 🤝 Open to contributing to impactful OSS in **backend, infra, and AI tooling**
+
+> _Currently expanding open-source contributions with a focus on production-grade backend systems._
+
+
+## 📫 Contact
+- 📧 **1311amitkr@gmail.com**
+- 🔗 **linkedin.com/in/amit-kumar-iiitr**
+
+<p align="center">
+  <i>Open to Backend / Full-Stack / Software Engineer Intern & New-Grad roles</i>
+</p>
