@@ -86,7 +86,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🎙️ PodcastX
 **AI-Powered Podcast Creation & Discovery**
@@ -109,7 +109,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 [![Live](https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://podcastx.iamamit.me/)
 
 </td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### ⚡ QuickAI
 **Multimodal Generative AI Suite**
@@ -134,7 +134,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🧠 NoteSphere
 **Context-Aware Digital Brain & Organizer**
@@ -155,7 +155,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 [![GitHub](https://img.shields.io/badge/Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitkr1311/NoteSphere-Frontend)
 
 </td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔭 What's Next?
 
