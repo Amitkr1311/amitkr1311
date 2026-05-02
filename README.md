@@ -86,7 +86,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎙️ PodcastX
 **AI-Powered Podcast Creation & Discovery**
@@ -109,7 +109,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 [![Live](https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://podcastx.iamamit.me/)
 
 </td>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### ⚡ QuickAI
 **Multimodal Generative AI Suite**
@@ -134,7 +134,7 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 NoteSphere
 **Context-Aware Digital Brain & Organizer**
@@ -155,13 +155,14 @@ interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 [![GitHub](https://img.shields.io/badge/Code-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amitkr1311/NoteSphere-Frontend)
 
 </td>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔭 What's Next?
 
-```
+```text
 Currently building:
-  ↳ CricUmpire - A platform for Cricket Fans to rate the cricket matches
+  ↳ CricUmpire — platform for Cricket
+    fans to rate matches
 
 Exploring:
   ↳ Serverless cold-start optimization
@@ -178,13 +179,11 @@ Looking for:
 </tr>
 </table>
 
----
-
 ## 📊 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitkr1311&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=a78bfa&icon_color=06b6d4&text_color=94a3b8&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr1311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=a78bfa&text_color=94a3b8&langs_count=8" height="180"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Amitkr1311&cc=0d0d1f&tc=a78bfa&ic=06b6d4&bc=0d0d1f" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitkr1311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1f&title_color=a78bfa&text_color=94a3b8&langs_count=8&cache_seconds=1800" height="180"/> -->
 </div>
 
 <div align="center">
@@ -233,9 +232,26 @@ Looking for:
 ## 💬 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&text=💭%20&fontSize=40&fontColor=ffffff&animation=fadeIn" width="60"/>
+  
+  <br/>
 
+  <table border="0">
+  <tr>
+  <td align="center" style="padding: 20px;">
+  
+  ### `< thought />`
+  
+  *"We worry about AI thinking like humans.*  
+  *We should worry more about humans thinking like AI."*
+  
+  </td>
+  </tr>
+  </table>
+
+  <img src="https://img.shields.io/badge/-%F0%9F%A7%A0%20Food%20for%20thought-7c3aed?style=for-the-badge&labelColor=0d0d1f" />
+
+</div>
 ---
 
 ## 📫 Let's Connect
