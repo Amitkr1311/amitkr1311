@@ -33,9 +33,9 @@
 ```yaml
 name       : Amit Kumar
 location   : Bengaluru, Karnataka, India
-education  : B.Tech CSE — 3rd Year IIIT Raichur
+education  : B.Tech CSE — Final Year IIIT Raichur
 focus      : Backend Engineering · DevOps · Cloud-Native Systems
-leetcode   : Top 1.4% Globally · 400+ Problems Solved
+leetcode   : Top 1.4% Globally · 500+ Problems Solved
 status     : Open to Intern & New-Grad Roles
 interests  : [AI Tooling, Distributed Systems, Production Infra, OSS]
 ```
